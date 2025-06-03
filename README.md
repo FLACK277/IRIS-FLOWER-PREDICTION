@@ -328,9 +328,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Pratyush Rawat**
 - 🎓 Computer Science & Data Science Student at Manipal University
-- 🏆 400+ LeetCode problems solved demonstrating strong algorithmic skills
-- 🥈 2nd Place Winner - Smart India Hackathon (SIH) 2024
-- 🚀 Passionate about machine learning and data science applications
 
 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pratyushrawat-blue.svg)](https://linkedin.com/in/pratyushrawat)
